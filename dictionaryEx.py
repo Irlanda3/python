@@ -5,4 +5,4 @@ thisdict = {
 print(thisdict)
 print(thisdict.get("model"))
 
-#some changes to python
+# this is a note
