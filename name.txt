@@ -1,0 +1,2 @@
+Programmers can bind names (also called variables) to any type of object using the assignment = operator: <name> = <value>. A name can be reassigned
+(or re-bound) to different values (different object types) over its lifetime.
